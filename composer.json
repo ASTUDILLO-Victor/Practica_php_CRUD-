@@ -1,0 +1,19 @@
+{
+    "name": "user/registro",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ASTUDILLO-Victor",
+            "email": "167276606+ASTUDILLO-Victor@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ],
+        "files": [
+            "functions.php"
+        ]
+    }
+}

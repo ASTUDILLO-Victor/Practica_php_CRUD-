@@ -1,12 +1,13 @@
 <?php
-require 'database/connection.php';
-require 'database/QueryBuilder.php';
-require 'Router.php';
-require 'app.php';
-require 'Auth.php';
-require 'models/Task.php';
-require 'models/user.php';
-require 'functions.php';
+//con composer despues de terminar el proyecto puedes eliminar todos los require de boostrap
+// require 'database/connection.php';
+// require 'database/QueryBuilder.php';
+// require 'Router.php';
+// require 'app.php';
+// require 'Auth.php';
+// require 'models/Task.php';
+// require 'models/user.php';
+// require 'functions.php';
 
 
 App::set("config",require 'config.php');
